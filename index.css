@@ -5,10 +5,10 @@
 
 }
 body {
-  background-image: url("imges//images.jpg");
+  background-image: url("download (2).jpeg");
 
   background-size: 410px;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   box-sizing: border-box;
 }
 header{
